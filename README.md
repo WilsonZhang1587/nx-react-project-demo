@@ -65,3 +65,20 @@
 ### 安裝
 
 1. ios -> pod install
+
+### TODO List
+
+1. 設置開發環境配置檔案
+  a. EsLint
+  b. Prettier
+  c. VsCode-WorkSpace
+2. 設置開發流程檢驗
+  a. Auto Format
+    I.  EsLint - Prettier
+    II. StyleLint
+  b. husky - pre-commit
+    I. Unit Test
+3. GitHub 設置 Submodule
+  a. Front-End
+  b. Back-End
+4. 追蹤 ECMAScript 版本
